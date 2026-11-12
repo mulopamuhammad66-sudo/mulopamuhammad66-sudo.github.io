@@ -1,0 +1,2 @@
+/* Browser-safe Supabase project configuration. This is a publishable key, not a service key. */
+window.HUB_CONFIG={url:'https://vhzydtucynhvtbhrdwmx.supabase.co',publishableKey:'sb_publishable_v1gxFaEDyr4BCBXOJuUhRQ_6JNIw90i'};
